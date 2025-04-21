@@ -1,0 +1,25 @@
+# IntelliJ IDEA specific directories and files
+/.idea/
+/*.iml
+/modules.xml
+/workspace.xml
+/shelf/
+/tasks.xml
+/mavenHomeManager.xml
+
+# Build output directories
+/out/
+
+# User-specific configurations
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
